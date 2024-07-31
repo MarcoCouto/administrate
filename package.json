@@ -9,7 +9,7 @@
     "@hotwired/turbo-rails": "^8.0.0",
     "@rails/actiontext": "^7.1.3-2",
     "esbuild": "^0.18.11",
-    "jquery": "^3.7.0",
+    "jquery": "^3.7.1",
     "sass": "^1.63.6",
     "selectize": "^0.12.6",
     "trix": "^2.1.1"
