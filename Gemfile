@@ -28,7 +28,7 @@ group :development, :test do
   gem "factory_bot_rails"
   gem "i18n-tasks", "1.0.14"
   gem "pry"
-  gem "standard"
+  gem "standard", ">= 1.39.2"
   gem "yard"
 end
 
@@ -38,7 +38,7 @@ group :test do
   gem "database_cleaner"
   gem "formulaic"
   gem "launchy"
-  gem "selenium-webdriver"
+  gem "selenium-webdriver", ">= 4.23.0"
   gem "shoulda-matchers"
   gem "timecop"
   gem "webmock"
