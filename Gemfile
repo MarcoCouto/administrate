@@ -42,7 +42,7 @@ group :test do
   gem "shoulda-matchers"
   gem "timecop"
   gem "webmock"
-  gem "webrick"
+  gem "webrick", ">= 1.8.2"
   gem "xpath", "3.2.0"
 end
 
