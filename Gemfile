@@ -35,7 +35,7 @@ end
 group :test do
   gem "ammeter"
   gem "capybara"
-  gem "database_cleaner"
+  gem "database_cleaner", ">= 2.1.0"
   gem "formulaic"
   gem "launchy"
   gem "selenium-webdriver"
